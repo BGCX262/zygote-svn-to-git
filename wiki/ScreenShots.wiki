@@ -1,0 +1,8 @@
+#output screen shots r20.
+
+= SCREEN SHOTS =
+= vmware configuration =
+[http://zygote.googlecode.com/files/vmconfig.PNG]
+
+= After Booting =
+[http://zygote.googlecode.com/files/afterboot.PNG]
